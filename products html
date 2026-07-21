@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supermarket Badbaado | Alaabta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">🛒 Badbaado Market</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Hoyga</a></li>
+                <li><a href="products.html" class="active">Alaabta</a></li>
+                <li><a href="about.html">Nagu Saabsan</a></li>
+                <li><a href="contact.html">Nala Soco</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="container">
+        <h2 class="section-title">Alaabta Aan Ibinno</h2>
+        
+        <div class="product-grid">
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=300" alt="Muus">
+                <h3>Muus Cusub</h3>
+                <p class="price">$1.50 / Kg</p>
+            </div>
+
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1550583724-b2692b85b150?w=300" alt="Caano">
+                <h3>Caano Safi ah</h3>
+                <p class="price">$2.00 / Litir</p>
+            </div>
+
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300" alt="Rooti">
+                <h3>Rooti Macaan</h3>
+                <p class="price">$0.80 / Xabbo</p>
+            </div>
+
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300" alt="Saliid">
+                <h3>Saliid Macsar</h3>
+                <p class="price">$5.50 / Litir</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Badbaado Supermarket. Xuquuqda way dhowran tahay.</p>
+    </footer>
+
+</body>
+</html>
